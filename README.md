@@ -5,6 +5,8 @@
 - 📫 How to contact me by whatsapp
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramandamaulana)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramandamaulana)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
