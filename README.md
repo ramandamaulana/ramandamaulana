@@ -4,7 +4,8 @@
 - 💞️ I’m open to collaborating
 - 📫 How to contact me by whatsapp
 
-Skill 
+<h3> My Github stats:
+<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramandamaulana&show_icons=true&theme=radical)
 
 <br>
