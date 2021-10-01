@@ -20,7 +20,7 @@ About me
 <!-- Commit -->
 
 
-<p><strong>Contact Me</strong></p>
+<p style="margin-top:10px !important;"><strong>Contact Me</strong></p>
 <p><a href="https://www.linkedin.com/in/ramanda-maulana-001b06190/" rel="nofollow"><img src="https://camo.githubusercontent.com/db5c961fd944d76a4ce235b1f6b659a35a47792db5065ee1948917466074fcfa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d3030373742353f7374796c653d666c6174266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&amp;logo=Linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="https://www.facebook.com/kitaroriel17/" rel="nofollow"><img src="https://camo.githubusercontent.com/f4ecfbc205a1af57f557ca61b64ca6eef2c77753bec98e28e2a6a49f6a02398d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d46616365626f6f6b2d3030373742353f7374796c653d666c6174266c6f676f3d46616365626f6f6b266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Facebook-0077B5?style=flat&amp;logo=Facebook&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="https://www.twitter.com/kitaroriel/" rel="nofollow"><img src="https://camo.githubusercontent.com/056d962b0fd39ca64a66aad93fe99b502190c7b53c7ffe848d5d06c54753bd1f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547769747465722d3030373742353f7374796c653d666c6174266c6f676f3d54776974746572266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Twitter-0077B5?style=flat&amp;logo=Twitter&amp;logoColor=white" style="max-width: 100%;"></a></p>
