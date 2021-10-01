@@ -20,15 +20,7 @@ About me
 <!-- Commit -->
 
 
-<table>
-  <thead>
-  <tr>
-    <th>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-</th>
-    <th>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramandamaulana&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-    </th>
-    </tr></thead></table>
+
 
 
 <!---
