@@ -8,7 +8,7 @@ About me
 ❤️ I love writing JavaScript, and building fun experiments on type-level
 
 
-My portfolio : https://ramanda.netlify.app
+My portfolio : https://ramandamaulana.my.id
 
 <p><strong>Languages and Tools:</strong></p>
 <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width: 100%; margin-bottom:20px !important;"></a></code>
