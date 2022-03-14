@@ -1,4 +1,4 @@
-
+[Profile views](https://gpvc.arturio.dev/ramandamaulana)
 I'm a self-taught passionate FrontEnd developer from Indonesia
 
 About me
