@@ -1,4 +1,6 @@
-[Profile views](https://gpvc.arturio.dev/ramandamaulana)
+Total pengunjung 😁✌️<br>
+![Profile views](https://gpvc.arturio.dev/ramandamaulana)
+<br>
 I'm a self-taught passionate FrontEnd developer from Indonesia
 
 About me
