@@ -5,7 +5,7 @@ I'm a self-taught passionate FrontEnd developer from Indonesia
 
 About me
 
-💼 FrontEnd Engineer at PT Solusi Integrasi Pratama
+💼 FrontEnd Engineer 
 
 ❤️ I love writing JavaScript, and building fun experiments on type-level
 
