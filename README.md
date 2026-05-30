@@ -5,8 +5,8 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-ramanda--portfolio.netlify.app-blue?style=for-the-badge&logo=netlify&logoColor=white)](https://ramanda-portfolio.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
-
 </div>
+
 
 ---
 
@@ -74,23 +74,6 @@ I'm a developer from **Jakarta, Indonesia** 🇮🇩 who loves turning ideas int
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramandamaulana&show_icons=true&theme=tokyo-night&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramandamaulana&layout=compact&langs_count=8&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ramandamaulana&theme=tokyo-night&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 📈 Activity Graph
 
 <div align="center">
@@ -99,21 +82,3 @@ I'm a developer from **Jakarta, Indonesia** 🇮🇩 who loves turning ideas int
 
 </div>
 
-
-## 💭 Quote
-
-<div align="center">
-
-### *"Ideas are cheap. Execution is the real superpower."*
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=ramandamaulana&style=for-the-badge&color=blueviolet)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
